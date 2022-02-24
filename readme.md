@@ -28,8 +28,8 @@ mpiexec -n 10 python VRPTW-pybnb.py
 
 **计算结果示例**
 
-<img src="\result\image-20220223161727624.png" style="zoom:50%;" /><img src="\result\image-20220223163359120.png" style="zoom:50%;" />
+<img src="/result/image-20220223161727624.png" style="zoom:50%;" /><img src="/result/image-20220223163359120.png" style="zoom:50%;" />
 
-<img src="\result\image-20220223164347721.png" style="zoom:50%;" /><img src="\result\image-20220223180901963.png" style="zoom:50%;" />
+<img src="/result/image-20220223164347721.png" style="zoom:50%;" /><img src="/result/image-20220223180901963.png" style="zoom:50%;" />
 
-<img src="\result\image-20220223181214634.png" style="zoom:50%;" /><img src="\result\image-20220223181433393.png" style="zoom:50%;" />
+<img src="/result/image-20220223181214634.png" style="zoom:50%;" /><img src="/result/image-20220223181433393.png" style="zoom:50%;" />
