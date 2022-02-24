@@ -23,3 +23,13 @@ mpiexec -n 10 python VRPTW-pybnb.py
 ![](G:\行业文章\VRPTW-pybnb-code\address.jpg)
 
 因为一些历史原因，python读取的文件和C++读取的文件格式不同，但其实内容是一样的。切换算例的时候需要两者同时修改。
+
+
+
+**计算结果示例**
+
+<img src="\result\image-20220223161727624.png" style="zoom:50%;" /><img src="\result\image-20220223163359120.png" style="zoom:50%;" />
+
+<img src="\result\image-20220223164347721.png" style="zoom:50%;" /><img src="\result\image-20220223180901963.png" style="zoom:50%;" />
+
+<img src="\result\image-20220223181214634.png" style="zoom:50%;" /><img src="\result\image-20220223181433393.png" style="zoom:50%;" />
